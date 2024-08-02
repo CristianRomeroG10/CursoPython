@@ -44,5 +44,5 @@ cadena_nueva = cadena1.replace("stian","na la cochina")
 cadena_separada = cadena1.split(",")
 
 
-print(cadena_separada) 
+
 
