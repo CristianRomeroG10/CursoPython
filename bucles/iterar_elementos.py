@@ -20,7 +20,7 @@ for animal,numero in zip(animales,numeros):
 #for num in range(10,20):
 #    print(num)
 
-#forma no optima de recorrer una lista por su indice
+#forma no optima de recorrer una lista por su indice (no funciona en conjuntos)
 for num in range(len(numeros)):
     print(numeros[num])
     
@@ -36,4 +36,4 @@ for numero in numeros:
 else:
     print("el bucle termino")
     
-#todo lo anteriror funciona exactamente igual con las tuplas
+#todo lo anteriror funciona exactamente igual con las tuplas y conjuntos
