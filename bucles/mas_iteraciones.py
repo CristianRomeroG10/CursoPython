@@ -26,3 +26,4 @@ for letra in cadena:
 numeros_duplicados = [x*2 for x in numeros] #(duplicamos los numeros)
 print(numeros_duplicados)
 
+
