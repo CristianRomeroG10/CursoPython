@@ -19,3 +19,4 @@ numeros_impares = filter(lambda numero: numero%2 != 0, numeros)
 
 print(list(numeros_pares))
 print(list(numeros_impares))
+
