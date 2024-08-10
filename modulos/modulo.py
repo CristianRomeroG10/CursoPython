@@ -14,7 +14,7 @@ print(saludo_raro)
 #print(dir(ms))
 
 #accedemos al nombre de este modulo
-print(__name__)
+#print(__name__)
 
 #accedemps al nombre del modulo llamado
-print(ms.__name__)
+#print(ms.__name__)
