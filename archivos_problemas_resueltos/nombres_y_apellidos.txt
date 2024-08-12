@@ -1,0 +1,17 @@
+Los datos son: 
+
+Nombre: Cristian
+Apellido: Romero
+--------------
+Nombre: Gael
+Apellido: Romero
+--------------
+Nombre: Eliot
+Apellido: Garcia
+--------------
+Nombre: Lily
+Apellido: Garcia
+--------------
+Nombre: Cookies
+Apellido: Romero
+--------------
