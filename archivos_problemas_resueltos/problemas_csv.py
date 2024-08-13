@@ -18,7 +18,7 @@ df = df.dropna()
 #eliminando las filas repetidas
 df = df.drop_duplicates()
 
-#creando un CSv con el dataframe resultante (limpio)
+#creando un CSV con el dataframe resultante (limpio)
 df.to_csv("archivos_problemas_resueltos/datos_limpios.csv")
 
 
